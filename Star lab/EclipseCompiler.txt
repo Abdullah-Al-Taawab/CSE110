@@ -1,0 +1,19 @@
+13 Nov 2018 13:29:46 GMT: Log 'EclipseCompiler.txt' opened: 13 Nov 2018 13:29:46 GMT with name C:\Users\USER\Desktop\Star lab\EclipseCompiler.txt
+13 Nov 2018 13:29:53 GMT: diagnostics = javax.tools.DiagnosticCollector@12971a1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c4b1ec
+fileObjects = [C:\Users\USER\Desktop\Star lab\task20.java]
+13 Nov 2018 13:29:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13c218d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 13:29:54 GMT: Compiler call returned
+13 Nov 2018 13:29:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a70696
+13 Nov 2018 13:29:54 GMT:  Kind = WARNING
+13 Nov 2018 13:29:54 GMT: Name = C:\Users\USER\Desktop\Star lab\task20.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 13:30:06 GMT: Log 'EclipseCompiler.txt' opened: 13 Nov 2018 13:30:06 GMT with name C:\Users\USER\Desktop\Star lab\EclipseCompiler.txt
+13 Nov 2018 13:30:14 GMT: diagnostics = javax.tools.DiagnosticCollector@8a965c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@50e509
+fileObjects = [C:\Users\USER\Desktop\Star lab\task21.java]
+13 Nov 2018 13:30:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@68b221' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 13:30:14 GMT: Compiler call returned
+13 Nov 2018 13:30:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c8a390
+13 Nov 2018 13:30:14 GMT:  Kind = WARNING
+13 Nov 2018 13:30:14 GMT: Name = C:\Users\USER\Desktop\Star lab\task21.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 13:31:24 GMT: Log 'EclipseCompiler.txt' opened: 13 Nov 2018 13:31:24 GMT with name C:\Users\USER\Desktop\Star lab\EclipseCompiler.txt
